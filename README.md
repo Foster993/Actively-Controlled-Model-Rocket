@@ -1,2 +1,2 @@
 # Actively-Controlled-Model-Rocket
-This is an actively controlled model rocket that uses fins to deflect airflow and steer. This rocket system also uses a EDF instead of a parachute to land softly.
+This is an actively controlled model rocket that uses fins to deflect airflow and steer. This rocket system also uses a EDF instead of a parachute to land softly. This rocket will first use a rocket motor to get up to apogee while using fins controlled by sg90 servos to keep it going straight, then once the rocket motor has burned out, it will fire an electric ducted fan to generate thrust and vector the rocket to use instead of a parachute. 
